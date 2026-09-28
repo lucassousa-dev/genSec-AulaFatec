@@ -5,3 +5,5 @@ export default function App() {
       <Home />
   );
 }
+
+// by Lucas
